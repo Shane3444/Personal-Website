@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  margin: 0 20px;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  margin-bottom: 20px;
+  color: #40514E;
+}
+
+span {
+  text-decoration: underline;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 10%;
+  border-width: 8px;
+  border-color: #EAF6F6;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 60px;
+  text-align: center;
+}
+
+.middle-container {
+  color: white;
+  padding-top: 20px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 100px;
+  margin-bottom: 0;
+  padding: 30px;
+}
+
+.cloud-1 {
+  position: absolute;
+  top: 50px;
+  right: 30%;
+}
+
+.cloud-2 {
+  position: absolute;
+}
+
+.profile-pic {
+  height: 200px;
+  width: 200px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.programming-gif {
+  height: 200px;
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  bottom: 20px;
+}
+
+.gaming-gif {
+  height: 200px;
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+  position: relative;
+  bottom: 20px;
+}
+
+.bottom-p {
+  margin-top: 30px;
+  margin-bottom: 0;
+  color: #EAF6F6;
+  font-size: 14px;
+}
+
+.profile-text {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.contact-text {
+  width: 30%;
+  margin: 40px auto 60px auto;
+}
+
+.btn {
+  background: #11999E;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
